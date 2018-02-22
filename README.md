@@ -5,4 +5,6 @@ Images in this game belong to Team Shanghai Alice.
 
 The game is based on pure JavaScript w/ canvas. No external library included.
 
+Demo: https://andytq.github.io/Defense-of-Hakurei-Shrine/
+
 Implementation will be reorganized in the future.
