@@ -1,10 +1,8 @@
 # Defense-of-Hakurei-Shrine
-Game Last updated: May 15, 2017
-An HTML5 Canvas project made when I was a high school kid. This is a fan-made Touhou project game using Canvas.
+An HTML5 Canvas project using JavaScript. 
+This is a fan-made Touhou project game.
 Images in this game belong to Team Shanghai Alice.
 
-The game is based on pure JavaScript w/ canvas. No external library included.
+No external library is included. The game is based on pure JavaScript.
 
 Demo: https://andytq.github.io/Defense-of-Hakurei-Shrine/
-
-Implementation will be reorganized in the future.
