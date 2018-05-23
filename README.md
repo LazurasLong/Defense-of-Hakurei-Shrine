@@ -10,8 +10,10 @@ Simply run index.html to start the game.
 
 ================= Parts to be completed ================
 - Boss
-- Background Music.
+- Background Music
 - Difficulty selection
+- Animations
+- Sound Effect
 
 ================= Parts not fully working yet ====================
 - The direction of Reimu's guided bullet is buggy
