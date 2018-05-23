@@ -9,7 +9,7 @@ Demo: https://andytq.github.io/Defense-of-Hakurei-Shrine/
 ================= Parts to be completed ================
 - Boss
 - Background Music.
-
+- Difficulty selection
 
 ================= Parts not fully working yet ====================
 - The direction of Reimu's guided bullet is buggy
