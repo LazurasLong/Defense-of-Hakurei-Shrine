@@ -15,3 +15,7 @@ Demo: https://andytq.github.io/Defense-of-Hakurei-Shrine/
 - The direction of Reimu's guided bullet is buggy
 - Implementation of bomb
 - Menu sections
+
+================= Parts that can be reinforced ===================
+- Code structure
+- ?
