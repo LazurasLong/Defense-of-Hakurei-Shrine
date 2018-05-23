@@ -14,6 +14,7 @@ Simply run index.html to start the game.
 - Difficulty selection
 - Animations
 - Sound Effect
+- Multiple stages
 
 ================= Parts not fully working yet ====================
 - The direction of Reimu's guided bullet is buggy
