@@ -8,11 +8,12 @@ Demo: https://andytq.github.io/Defense-of-Hakurei-Shrine/
 
 ================= Parts to be completed ================
 - Boss
-- BGM
+- Background Music.
 
 
 ================= Parts not fully working yet ====================
 - The direction of Reimu's guided bullet is buggy
+- Marisa's laser does not show up in some cases
 - Implementation of bomb
 - Menu sections
 
