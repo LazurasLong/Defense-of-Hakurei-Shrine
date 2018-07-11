@@ -15,13 +15,5 @@ Simply run index.html to start the game.
 - Animations
 - Sound Effect
 - Multiple stages
-
-================= Parts not fully working yet ====================
-- The direction of Reimu's guided bullet is buggy
-- Marisa's laser does not show up in some cases
-- Implementation of bomb
-- Menu sections
-
-================= Parts that can be reinforced ===================
-- Code structure
-- ?
+- Bomb
+- More Stages!
