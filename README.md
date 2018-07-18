@@ -10,10 +10,8 @@ Simply run index.html to start the game.
 
 ================= Parts to be completed ================
 - Boss
-- Background Music
 - Difficulty selection
 - Animations
-- Sound Effect
 - Multiple stages
 - Bomb
 - More Stages!
