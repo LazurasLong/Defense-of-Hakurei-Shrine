@@ -1,6 +1,5 @@
 # Defense of Gensokyo (Formerly Defense-of-Hakurei-Shrine)
-Author: Andy
-Original Game By ZUN
+Author: Andy; Original Game By ZUN.
 An HTML5 Canvas project using JavaScript. 
 - This is a fan-made Touhou project game. 
 - Resources in this game belong to Team Shanghai Alice & Twilight Frontier.
